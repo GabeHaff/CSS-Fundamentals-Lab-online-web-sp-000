@@ -21,12 +21,11 @@ figcaption {
   font-size: 6pt;
   text-align:center;
 }
-/*<section id="featured-property">*/
-section #featured-property p {
+ #featured-property p {
   width:800px;
   text-align:center;
 }
-footer div {
+#details div {
   display: block;
   float: left;
   background-color:#ccff99;
