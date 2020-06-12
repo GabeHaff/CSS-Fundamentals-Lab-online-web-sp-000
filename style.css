@@ -21,7 +21,8 @@ figcaption {
   font-size: 6pt;
   text-align:center;
 }
-section#featured-property { ########
+/*<section id="featured-property">*/
+section#featured-property {
   width:800px;
   text-align:center;
 }
